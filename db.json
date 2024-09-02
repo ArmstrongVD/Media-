@@ -1,5 +1,18 @@
 {
-    "users":[{"id":1, "name": "Myra"}],
-    "albums":[],
-    "photos":[]
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "d931",
+      "name": "Zachary Legros"
+    },
+    {
+      "id": "1d8c",
+      "name": "Mrs. Kerry Aufderhar"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
