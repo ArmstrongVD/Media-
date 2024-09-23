@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Myra"
-    },
-    {
       "id": "1d8c",
       "name": "Mrs. Kerry Aufderhar"
     },
@@ -17,6 +13,67 @@
       "name": "Aaron Shields"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hello",
+      "userId": "1d8c"
+    },
+    {
+      "id": "cfcc",
+      "userId": "1d8c",
+      "title": "Modern Soft Ball"
+    },
+    {
+      "id": "6d03",
+      "userId": "a5d2",
+      "title": "Incredible Fresh Fish"
+    },
+    {
+      "id": "0358",
+      "userId": null,
+      "title": "Unbranded Rubber Cheese"
+    },
+    {
+      "id": "9676",
+      "userId": "1d8c",
+      "title": "Rustic Metal Salad"
+    },
+    {
+      "id": "63f7",
+      "userId": "a5d2",
+      "title": "Handmade Metal Bike"
+    },
+    {
+      "id": "484d",
+      "userId": null,
+      "title": "Bespoke Granite Towels"
+    },
+    {
+      "id": "7061",
+      "userId": "4ece",
+      "title": "Luxurious Steel Fish"
+    },
+    {
+      "id": "9a0c",
+      "userId": "4ece",
+      "title": "Licensed Concrete Computer"
+    },
+    {
+      "id": "d65b",
+      "userId": null,
+      "title": "Elegant Metal Soap"
+    },
+    {
+      "id": "b7ab",
+      "userId": "4ece",
+      "title": "Awesome Steel Keyboard"
+    },
+    {
+      "id": "dd8a",
+      "userId": "a5d2",
+      "title": "Handmade Plastic Pants"
+    }
+  ],
   "photos": []
 }
